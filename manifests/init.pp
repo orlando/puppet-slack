@@ -4,8 +4,8 @@
 #
 #   include slack
 class slack {
-  package { 'Slack_0.36':
+  package { 'Slack.app':
     provider => 'compressed_app',
-    source   => 'https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/000/813/170/original/1a486090351ed8d173fcbddfbf0c9b27/Slack_0.36.zip'
+    source   => 'https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/000/889/136/original/74ec94d57c53951b76879297718f5b97/Slack.app.zip'
   }
 }
