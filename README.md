@@ -1,19 +1,5 @@
 # Slack Puppet Module for Boxen
 
-[![Build Status](https://travis-ci.org/orlando/puppet-slack.png?branch=master)](https://travis-ci.org/orlando/puppet-slack)
+This module is deprecated. If you install this module, it will install version 1.32 and won't auto update.
 
-Installs [Slack](http://www.slack.com), a chat application for making your working life simpler, more pleasant and more productive.
-
-## Usage
-
-```puppet
-include slack
-```
-
-## Required Puppet Modules
-
-* `boxen`
-
-## Development
-
-Write code. Run `script/cibuild` to test it. Check the `script` directory for other useful tools.
+Please install Slack from the AppStore from now on. [AppStore Link](https://itunes.apple.com/us/app/slack-team-communication/id618783545?mt=8)
